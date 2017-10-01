@@ -1,2 +1,4 @@
 # hello-world
-testing git hub
+supprimer des choses
+
+tester les commits sur la plateforme
